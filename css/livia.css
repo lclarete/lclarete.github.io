@@ -1,0 +1,32 @@
+/* tag bady */
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14pt;
+  color: #757575
+}
+
+h2{
+  font-size: 40pt;
+  color: #4f5355
+}
+/* .class */
+.info{
+
+}
+
+.spaced-menu li{
+    padding-bottom: 5%;
+}
+
+.bulletless li{
+  list-style: none;
+}
+
+.bulletless span{
+  padding-right: 10px
+}
+
+/* #id */
+#page-contaner {
+  margin-top: 100px;
+}
